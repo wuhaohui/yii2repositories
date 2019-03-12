@@ -6,7 +6,7 @@
  * Time: 16:44
  */
 
-namespace wuhaohui\yii2repositories;
+namespace whh\yii2repositories;
 
 
 interface CriteriaInterface

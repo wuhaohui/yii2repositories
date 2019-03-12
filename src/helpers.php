@@ -1,8 +1,8 @@
 <?php
 
-use wuhaohui\yii2repositories\Container;
+use whh\yii2repositories\Container;
 use yii\web\Response;
-use wuhaohui\yii2repositories\BaseRepository;
+use whh\yii2repositories\BaseRepository;
 
 if (!function_exists('app')) {
     /**

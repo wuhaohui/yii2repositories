@@ -14,7 +14,7 @@
     },
     "autoload": {
         "psr-4": {
-            "wuhaohui\\yii2repositories\\": "src/repositories"
+            "whh\\yii2repositories\\": "src/repositories"
         },
         "files": [
             "src/helpers.php"

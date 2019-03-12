@@ -6,7 +6,7 @@
  * Time: 16:45
  */
 
-namespace wuhaohui\yii2repositories;
+namespace whh\yii2repositories;
 
 
 interface RepositoryInterface
